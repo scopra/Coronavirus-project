@@ -6,7 +6,7 @@ import java.util.Collections;
 
 /**
  *
- * @author Selma Čopra & Adi Kalača
+ * @author Selma Čopra
  */
 public class Coronavirus implements Viral{
 
