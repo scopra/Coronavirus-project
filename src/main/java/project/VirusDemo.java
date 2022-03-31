@@ -2,7 +2,7 @@ package project;
 
 /**
  *
- * @author Selma Čopra & Adi Kalača
+ * @author Selma Čopra
  */
 public class VirusDemo {
     public static void main(String[] args){
